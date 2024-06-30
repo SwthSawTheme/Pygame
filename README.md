@@ -1,1 +1,1 @@
-# Pygame mini curso introdut¢rio! 
+# Pygame mini curso introdut√≥rio! 
