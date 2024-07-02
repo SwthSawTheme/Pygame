@@ -2,6 +2,8 @@ import pygame
 from pygame.locals import *
 import sys
 
+# Desenha uma figura na tela
+
 largura = 800
 altura = 600
 

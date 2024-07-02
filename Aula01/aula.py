@@ -2,6 +2,7 @@ import pygame
 from pygame.locals import *
 import sys
 
+# Criar uma figura na tela
 
 largura = 700
 altura = 600
