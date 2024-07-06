@@ -81,7 +81,7 @@ def game():
             pontos += 10
             sound.play()
             corpo.append(cabeca)
-            tamanho_cobra += 10
+            tamanho_cobra += 1
             
         
         if x_red > largura:
