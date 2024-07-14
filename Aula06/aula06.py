@@ -20,8 +20,8 @@ tock = pygame.mixer.Sound(os.path.join("Aula06","money.wav"))
 
 
 def game():
-    x_red = largura // 2
-    y_red = altura // 2
+    x_red = largura / 2
+    y_red = altura / 2
     
     x_blue = randint(100,700)
     y_blue = randint(100,500)
